@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+article.display{
+    display: inline-block; 
+    width: 30%;
+    height: auto;
+    margin-left: 30px;   
+}
+div.menu1 li {
+    color: blueviolet;
+    font-size: 10px; 
+    
+    display: inline;
+    
+} 
+    
