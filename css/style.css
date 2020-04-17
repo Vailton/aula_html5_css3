@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
-
+/*comentário css*/
 article.display{
     display: inline-block; 
     width: 48%;
@@ -20,6 +20,7 @@ header.menu-principal h3 {
 } 
 
 main.corpo {
+    box-sizing: border-box;
     font-family: 'Oswald', sans-serif;
     display: block;
     margin: -8% 25% 0% 20%;
